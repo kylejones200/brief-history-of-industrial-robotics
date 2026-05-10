@@ -1,146 +1,15 @@
-# Brief history of industrial robotics Industrial robots have become integral to many industries, including
-automotive, electronics, food processing, and pharmaceuticals. These...
+---
+Author: Kyle Jones Publication_date: April 15, 2023 Canonical_link: "https://medium.com/@kyle-t-jones/brief-history-of-industrial-robotics-1a8cbbbdaaae" Export_from_medium_date: November 10, 2025
+---
+# Brief history of industrial robotics
 
-### Brief history of industrial robotics
-Industrial robots have become integral to many industries, including
-automotive, electronics, food processing, and pharmaceuticals. These
-machines are designed to perform tasks automatically and can replace or
-assist humans. They can carry out repetitive tasks with high precision
-and speed, improving productivity and efficiency while reducing costs.
+Industrial robots have become integral to many industries, including automotive, electronics, food processing, and pharmaceuticals. These...
+### Brief history of industrial robotics Industrial robots have become integral to many industries, including automotive, electronics, food processing, and pharmaceuticals.
 
+These machines are designed to perform tasks automatically and can replace or assist humans. They can carry out repetitive tasks with high precision and speed, improving productivity and efficiency while reducing costs. "Industrial robot" refers to any automatic control mechanism that can simulate human behavior or thought and simulate other creatures. These machines can be programmed to perform various tasks, including welding, painting, material handling, and assembly. In the narrow sense, there are many classifications and controversies about the definition of robots. Some computer programs are even called robots, although they may not have physical bodies. In modern industry, a robot typically refers to a manufactured machine device that can perform tasks automatically to replace or assist humans in their work. These machines come in various shapes and sizes, from small desktop robots to large-scale robotic arms that can reach several meters in length. They can be stationary or mobile and programmed to work autonomously or under human supervision. The ideal high-simulation robot is the product of advanced integrated cybernetics, mechatronics, computer and artificial intelligence, materials science, and bionics. The scientific community is currently researching and developing in this direction. Researchers are developing new technologies and techniques to improve the machine's sensing, perception, and control abilities to achieve high-simulation robots. This includes the development of advanced sensors, machine vision, and machine learning algorithms that can enable the robot to adapt to changing environments and situations. The evaluation criteria for industrial robot capabilities include: intelligence, which refers to feeling and perception, including memory, calculation, comparison, identification, judgment, decision-making, learning, and logical reasoning, etc.; function, which refers to flexibility, versatility or space occupancy, etc.; physical ability, Refers to force, speed, reliability, everyday use, and life, etc. Therefore, a robot is an essential space operation tool with biological functions, which can replace human beings to complete some dangerous or difficult labors and tasks.
+### BRIEF HISTORY The earliest industrial robot known to have met ISO standards were created by "Regulations" Griffith P. Taylor in 1937 and released
 
-<figcaption>Photo by <a
-href="https://unsplash.com/@davidleveque?utm_source=medium&amp;utm_medium=referral"
-class="markup--anchor markup--figure-anchor"
-data-href="https://unsplash.com/@davidleveque?utm_source=medium&amp;utm_medium=referral"
-rel="photo-creator noopener" target="_blank">David Levêque</a> on <a
-href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral"
-class="markup--anchor markup--figure-anchor"
-data-href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral"
-rel="photo-source noopener" target="_blank">Unsplash</a></figcaption>
+in the March 1938 issue of Meccano Magazine. The Meccano is driven by a single electric motor and is virtually totally constructed with a crane-like apparatus. There are five different axes of movement, including grab-and-grab rotation. Perforated tape is used to activate the solenoid to automate the movement of the crane's control rod. The robot is capable of stacking blocks in specific patterns. The needed motor rotations for each desired motion are initially drawn on graph paper. In the late 1950s, industrial robots were first put into use. Using inspiration related to servo systems, Joseph F. Englberger and George Devol jointly developed an industrial robot --- "Unimate" (Unimate), pioneered in 1961 and Started using it on the production floor of General Motors. The initial industrial robot was relatively simple in structure, and its completed function was to pick up auto parts and place them on the conveyor belt. It could not interact with other working environments, and it was to accurately complete the same repetitive action according to the predetermined basic program. Since then, in industrial production, many heavy, repetitive, or meaningless process operations can be completed by industrial robots instead of humans. In the 1960s, the development of industrial robots ushered in the dawn period, and the simple functions of robots were further developed. The application of robot sensors has improved the operability of robots, including the tactile sensors used by Ernst; Tomovich and Boni used pressure sensors on the world's first "dexterous hands"; McCarthy improved the robot and added vision Sensing systems and helped MIT launch the world's first robotic system with vision sensors that can recognize and locate building blocks. In addition, using technologies such as sonar systems and photoelectric cells, industrial robots can correct their accurate positions through environmental recognition. Since the mid-1960s, the Massachusetts Institute of Technology, Stanford University, and the University of Edinburgh have successively established robotics laboratories. Research on the second generation of "feeling" robots with sensors is emerging in the United States, advancing toward artificial intelligence. Robots entered the realm of practicality in the 1970s with the advancement of computer and artificial intelligence technologies. Like Hitachi's tactile, pressure sensor, 7-axis AC motor-driven robot; the world's first small computer-controlled robot launched by American Milacron, driven by electro-hydraulic servo, can track moving objects, used for assembly and Functional multi-purpose operations; robots suitable for assembly operations also include SCARA planar articulated robots invented by Yamanashi University in Japan. At the end of the 1970s, the PUMA series robots launched by Unimation of the United States were controlled by multi-joint, multi-CPU secondary computers, all electric. They had particular VAL language and visual and force sensors, which indicated that industrial robot technology had fully matured. PUMA is still working on the front line of the factory. In the 1980s, robots entered a period of popularization. With the development of the manufacturing industry, industrial robots became popular in developed countries. They developed towards high speed, high precision, lightweight, complete sets and serialization, and intelligentization to meet the needs of multiple varieties. Small batches are required. By the 1980s, robots had entered a period of popularization. With the development of the manufacturing industry, industrial robots became popular in developed countries. They developed towards high speed, high precision, lightweight, complete sets and serialization, and intelligentization to meet the needs of multiple varieties. , Small batch needs. By the 1990s, with the advancement and development of computer and intelligent technology, the second generation of robots with certain sensory functions had been practical. It began to be promoted, and the third generation of robots with vision, touch, highly nimble fingers, and the ability to walk Robots appeared one after another and began to move toward applications.
+### Related Stories - [[Component parts of industrial robotics and automation systems](https://medium.com/@kylejones_47003/component-parts-of-industrial-robotics-and-automation-systems-e4bd14cd10b9)] - [[7 Types of
 
-
-"Industrial robot" refers to any automatic control mechanism that can
-simulate human behavior or thought and simulate other creatures. These
-machines can be programmed to perform various tasks, including welding,
-painting, material handling, and assembly. In the narrow sense, there
-are many classifications and controversies about the definition of
-robots. Some computer programs are even called robots, although they may
-not have physical bodies.
-
-In modern industry, a robot typically refers to a manufactured machine
-device that can perform tasks automatically to replace or assist humans
-in their work. These machines come in various shapes and sizes, from
-small desktop robots to large-scale robotic arms that can reach several
-meters in length. They can be stationary or mobile and programmed to
-work autonomously or under human supervision.
-
-The ideal high-simulation robot is the product of advanced integrated
-cybernetics, mechatronics, computer and artificial intelligence,
-materials science, and bionics. The scientific community is currently
-researching and developing in this direction. Researchers are developing
-new technologies and techniques to improve the machine's sensing,
-perception, and control abilities to achieve high-simulation robots.
-This includes the development of advanced sensors, machine vision, and
-machine learning algorithms that can enable the robot to adapt to
-changing environments and situations.
-
-The evaluation criteria for industrial robot capabilities include:
-intelligence, which refers to feeling and perception, including memory,
-calculation, comparison, identification, judgment, decision-making,
-learning, and logical reasoning, etc.; function, which refers to
-flexibility, versatility or space occupancy, etc.; physical ability,
-Refers to force, speed, reliability, everyday use, and life, etc.
-Therefore, a robot is an essential space operation tool with biological
-functions, which can replace human beings to complete some dangerous or
-difficult labors and tasks.
-
-### BRIEF HISTORY
-The earliest industrial robot known to have met ISO standards were
-created by "Regulations" Griffith P. Taylor in 1937 and released in the
-March 1938 issue of Meccano Magazine. The Meccano is driven by a single
-electric motor and is virtually totally constructed with a crane-like
-apparatus. There are five different axes of movement, including
-grab-and-grab rotation. Perforated tape is used to activate the solenoid
-to automate the movement of the crane's control rod. The robot is
-capable of stacking blocks in specific patterns. The needed motor
-rotations for each desired motion are initially drawn on graph paper.
-
-In the late 1950s, industrial robots were first put into use. Using
-inspiration related to servo systems, Joseph F. Englberger and George
-Devol jointly developed an industrial robot --- "Unimate" (Unimate),
-pioneered in 1961 and Started using it on the production floor of
-General Motors. The initial industrial robot was relatively simple in
-structure, and its completed function was to pick up auto parts and
-place them on the conveyor belt. It could not interact with other
-working environments, and it was to accurately complete the same
-repetitive action according to the predetermined basic program. Since
-then, in industrial production, many heavy, repetitive, or meaningless
-process operations can be completed by industrial robots instead of
-humans.
-
-In the 1960s, the development of industrial robots ushered in the dawn
-period, and the simple functions of robots were further developed. The
-application of robot sensors has improved the operability of robots,
-including the tactile sensors used by Ernst; Tomovich and Boni used
-pressure sensors on the world's first "dexterous hands"; McCarthy
-improved the robot and added vision Sensing systems and helped MIT
-launch the world's first robotic system with vision sensors that can
-recognize and locate building blocks. In addition, using technologies
-such as sonar systems and photoelectric cells, industrial robots can
-correct their accurate positions through environmental recognition.
-
-Since the mid-1960s, the Massachusetts Institute of Technology, Stanford
-University, and the University of Edinburgh have successively
-established robotics laboratories. Research on the second generation of
-"feeling" robots with sensors is emerging in the United States,
-advancing toward artificial intelligence.
-
-Robots entered the realm of practicality in the 1970s with the
-advancement of computer and artificial intelligence technologies. Like
-Hitachi's tactile, pressure sensor, 7-axis AC motor-driven robot; the
-world's first small computer-controlled robot launched by American
-Milacron, driven by electro-hydraulic servo, can track moving objects,
-used for assembly and Functional multi-purpose operations; robots
-suitable for assembly operations also include SCARA planar articulated
-robots invented by Yamanashi University in Japan.
-
-At the end of the 1970s, the PUMA series robots launched by Unimation of
-the United States were controlled by multi-joint, multi-CPU secondary
-computers, all electric. They had particular VAL language and visual and
-force sensors, which indicated that industrial robot technology had
-fully matured. PUMA is still working on the front line of the factory.
-
-In the 1980s, robots entered a period of popularization. With the
-development of the manufacturing industry, industrial robots became
-popular in developed countries. They developed towards high speed, high
-precision, lightweight, complete sets and serialization, and
-intelligentization to meet the needs of multiple varieties. Small
-batches are required. By the 1980s, robots had entered a period of
-popularization. With the development of the manufacturing industry,
-industrial robots became popular in developed countries. They developed
-towards high speed, high precision, lightweight, complete sets and
-serialization, and intelligentization to meet the needs of multiple
-varieties. , Small batch needs.
-
-By the 1990s, with the advancement and development of computer and
-intelligent technology, the second generation of robots with certain
-sensory functions had been practical. It began to be promoted, and the
-third generation of robots with vision, touch, highly nimble fingers,
-and the ability to walk Robots appeared one after another and began to
-move toward applications.
-
-### Related Stories
-- [[Component parts of industrial robotics and automation
-  systems](https://medium.com/@kylejones_47003/component-parts-of-industrial-robotics-and-automation-systems-e4bd14cd10b9)]
-- [[7 Types of industrial
-  robots](https://medium.com/@kylejones_47003/types-of-industrial-robots-7991693d9c8e)]
-- [[Trends in industrial robotics and
-  automation](https://medium.com/@kylejones_47003/trends-in-industrial-robotics-and-automation-c24f910ac61)]
-::::::::By [Kyle Jones](https://medium.com/@kyle-t-jones) on
-[April 15, 2023](https://medium.com/p/1a8cbbbdaaae).
-
-[Canonical
-link](https://medium.com/@kyle-t-jones/brief-history-of-industrial-robotics-1a8cbbbdaaae)
-
-Exported from [Medium](https://medium.com) on November 10, 2025.
+industrial robots](https://medium.com/@kylejones_47003/types-of-industrial-robots-7991693d9c8e)] - [[Trends in industrial robotics and automation](https://medium.com/@kylejones_47003/trends-in-industrial-robotics-and-automation-c24f910ac61)]
